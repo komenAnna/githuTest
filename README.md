@@ -1,1 +1,3 @@
-# githuTest
+# githubTest
+
+Demo for learning
